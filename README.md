@@ -5,7 +5,7 @@
 
 A crypto currency price checking app by this there is chance to monitor the bitcoin investents on the move!
 
-![Finished App](https://github.com/Shawon-Lodh/ClimaWeather/blob/main/clima.gif)
+![Finished App](https://github.com/Shawon-Lodh/Bitcoin-Exchange/blob/main/bitcoin.gif)
 
 ## Language
 - Dart
